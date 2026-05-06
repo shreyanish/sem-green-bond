@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Data files (kept locally, not in git)
+*.xlsx
+*.xls
+all_currencies_combined.csv
+green_bond_SEM_clean.csv
+currency_bond_sheets_with_india_clean.xlsx
+currency_bond_sheets_with_india_clean.xlsx - *.csv
+
+# macOS
+.DS_Store
+
+# Other
+.pytest_cache/
+.mypy_cache/
